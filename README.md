@@ -2,7 +2,7 @@
 
 A collection of research papers and books I read. This includes survey/tutorial papers as well. 
 
-Fields: Robotics - SLAM, Vision, Learning, Optimization and related fields. 
+Fields: Robotics - SLAM, Vision (V), Learning (L), Optimization (O) and related fields. 
 
 Basic (B): Foundational papers in the above mentioned fields.  
 Advanced (A): Self explanatory.   
@@ -29,6 +29,7 @@ read (r) and to read (tr)
 * [DTAM: Dense tracking and mapping in real-time](https://ieeexplore.ieee.org/abstract/document/6126513)
 * [ORB-SLAM: a Versatile and Accurate Monocular SLAM System](https://arxiv.org/abs/1502.00956)
 * [VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator](https://arxiv.org/abs/1708.03852)
+* [(O) OKVIS: Open Keyframe-based Visual-Inertial SLAM using nonlinear optimization](https://journals.sagepub.com/doi/abs/10.1177/0278364914554813?journalCode=ijra)   
 
 Later:
 
