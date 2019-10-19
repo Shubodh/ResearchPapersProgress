@@ -2,7 +2,7 @@
 
 A collection of research papers and books I read. This includes survey/tutorial papers as well. 
 
-(wxYZ) stands for:
+(wxYZ) stands for:     
 w: read (r), ongoing (c) and to-read next (t)    
 x: Fields: Robotics - SLAM(s), Computer Vision (v), Learning (l), Optimization (o) and related fields.    
 Y: Basic (B), Advanced (A).      
